@@ -1,0 +1,1 @@
+This game is my entry for the Young Coders Sphere Coding Competition and intends to help show how CS can be used the help make the internet safer and more respectful for youth. My game displays internet safety sugessions when the player crashes to incorporate a fun component while teaching the user about internet safety.
